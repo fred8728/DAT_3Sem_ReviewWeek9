@@ -25,8 +25,7 @@ JS-filerne har genkendelige navne, således at de matcher opgavebeskrivelsen.
 Bemærk: Jeg har haft en del problemer med lifting state up og har ikke formået, at lave delete funktionen. 
 
 ### Torsdag 
-
-Kommer snart info....
+Torsdagsopgaven --> react-crud-rest-exercise
 
 ### Fredag
 kommer snart info.....
