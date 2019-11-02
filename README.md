@@ -29,4 +29,5 @@ Torsdagsopgaven --> react-crud-rest-exercise
 
 ### Fredag
 Fredagsopgaven --> ReactStateFetch
-Bemærk: Jeg har ikke nået at lave alle opgaverne, derudover havde jeg problemer inde i CountryTable.js - Jeg har manuelt tilføjet værdierne, da jeg ikke kunne løse problemer med map (se kommentar i filen)
+
+Bemærk: Jeg nåede ikke, at lave alle opgaverne, derudover havde jeg problemer inde i CountryTable.js - Jeg har manuelt tilføjet værdierne, da jeg ikke kunne løse problemer med map (se kommentar i filen)
