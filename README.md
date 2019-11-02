@@ -11,23 +11,23 @@ Bemærk: Mit primære fokus har ligget på de grønne opgaver i denne uge, da Re
 
 ### Mandag:
 
-Mandagsopgaverne --> Demo1 --> Monday. 
+Mandagsopgaverne --> Mandag-onsdag. 
 JS-filerne har genkendelige navne, således at de matcher opgavebeskrivelsen.
 
 ### Tirsdag:
-Tirsdagsopgaverne --> Demo1 --> Tuesday. 
+Tirsdagsopgaverne --> Mandag-onsdag. 
 JS-filerne har genkendelige navne, således at de matcher opgavebeskrivelsen.
 
 ### Onsdag:
-Onsdagsopgaverne --> Demo1 --> Wednesday. 
+Onsdagsopgaverne --> Mandag-onsdag. 
 JS-filerne har genkendelige navne, således at de matcher opgavebeskrivelsen.
 
 Bemærk: Jeg har haft en del problemer med lifting state up og har ikke formået, at lave delete funktionen. 
 
 ### Torsdag 
-Torsdagsopgaven --> react-crud-rest-exercise
+Torsdagsopgaven --> Torsdag
 
 ### Fredag
-Fredagsopgaven --> ReactStateFetch
+Fredagsopgaven --> Fredag
 
 Bemærk: Jeg nåede ikke, at lave alle opgaverne, derudover havde jeg problemer inde i CountryTable.js - Jeg har manuelt tilføjet værdierne, da jeg ikke kunne løse problemer med map (se kommentar i filen)
